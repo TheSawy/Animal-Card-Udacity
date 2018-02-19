@@ -1,0 +1,45 @@
+/* add your CSS here */
+body {
+	margin: 5px;
+}
+h3{
+	font-family: arial;
+}
+img {
+	margin-bottom: 10px;
+}
+p{
+	text-align: justify;
+}
+.main {
+	box-shadow: 10px 10px 5px #888888;
+	border: solid 1px grey;
+	border-radius: 25px;
+	margin: 10px;
+	width: 300px;
+	padding: 10px;
+	background-color: #b1b1c5;
+}
+.name{
+	border: solid 1px grey;
+	width: 70%;
+	height: 30px;
+	padding-left: 8px;
+	padding-top: 4px;
+	border-radius: 25px;
+}
+.info {
+	border: solid 1px grey;
+	border-radius: 25px;
+	padding: 10px;
+}
+ .fact {
+ 	font-style: italic;
+}
+ul li {
+	list-style-type: none;
+
+}
+ul li span {
+	font-weight: bold;
+}
